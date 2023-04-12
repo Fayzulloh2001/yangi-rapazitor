@@ -9,7 +9,7 @@ from loader import dp,db
 
 
 # Echo bot
-@dp.message_handler(text="Yig`ilgan ovizlar")
+@dp.message_handler(text="Yig`ilgan ovozlar")
 async def menyubot(message: Message):
     
     ismi = message.from_user.full_name
