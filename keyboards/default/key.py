@@ -7,7 +7,7 @@ menu = ReplyKeyboardMarkup(
             KeyboardButton(text='To`liqroq malumot'),
         ],
         [
-            KeyboardButton(text='Yig`ilgan ovzlar'),
+            KeyboardButton(text='Yig`ilgan ovozlar'),
             
         ],
     ],
